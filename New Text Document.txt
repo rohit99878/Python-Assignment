@@ -1,0 +1,37 @@
+# list1 = [1,2,3,4]
+
+# print(list1[-1])
+
+# l=[(1,)]
+
+# print(l[0][0])
+a = [1,5,2,(5,5)]
+
+b= a[3][1]
+print(b)
+
+input = "abbubacker"
+output = ''
+for i in range(len(input)):
+    if input[i] not in output:
+        output +=(input[i])
+    #print(input[i])
+
+print(output)
+# output = abucker
+rate yourself in python
+difference between ps and top command
+difference between df and du command
+why we use grep command
+project and what is your role
+which challenges faced in project
+rate yourself in python
+list = [(1,)] print 1 as output
+input = "abbubacker" , output = 'abucker'
+difference between print and return
+what is abstraction and encapsulation
+explain mini project
+what is sql
+what is bigdata
+
+
